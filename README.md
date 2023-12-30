@@ -1,8 +1,10 @@
 # self-learning-computer-science-
 This repository is a collection of various computer science courses that I have undertaken as part of my self-learning journey. The aim is to consolidate my learning and track my progress.
 -----------
+
+
 |course name | platform |status| my repo | 
-|------------|----------|---------|
+|------------|----------|---------|------|
 | [college Algebra](https://www.youtube.com/watch?v=LwCRRUa8yTU&t=895s)| freecodecamp |   :large_blue_circle:  |        |
 | [precalculus](https://www.youtube.com/watch?v=eI4an8aSsgw&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v&index=3)|freecodecamp | :large_blue_circle:|       |
 | [calculus](https://www.youtube.com/watch?v=HfACrKJ_Y2w&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v&index=3&pp=iAQB) |freecodecamp | :large_blue_circle:   |            |
