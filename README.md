@@ -1,5 +1,5 @@
 # self-learning-computer-science-
-This repository is a collection of various computer science courses that I have undertaken as part of my self-learning journey. The aim is to consolidate my learning and track my progress.
+This repository is a collection of various computer science courses that I have undertaken as part of my self-learning journey. The aim is to consolidate my learning , track my progress and share my experiences.
 -----------
 
 
