@@ -14,6 +14,7 @@ This repository is a collection of various computer science courses that I have 
 |[Build a Modern Computer from First Principles: From Nand to Tetris ](https://www.coursera.org/learn/build-a-computer) | coursera  |   :large_blue_circle: |        |
 |[CS 61A: Structure and Interpretation of Computer Programs -UC Berkeley ](https://inst.eecs.berkeley.edu/~cs61a/su20/)| MIT  |  :large_blue_circle:  |      |
 |[mastering critical skills in data structure](#)  | udemy |  :large_blue_circle: |           | 
+|[computaional thinking](https://computationalthinking.mit.edu/Spring21/reviews/)| MIT  | 🔵 |  | 
 [c++ how to program Book](#) | book | 🔵|         | 
 
 
